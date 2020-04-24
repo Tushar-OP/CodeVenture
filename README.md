@@ -1,2 +1,2 @@
 # CodeVenture
-Just some coding problems.
+Just Some Coding Problems in Python!
